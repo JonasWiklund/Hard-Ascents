@@ -1,5 +1,5 @@
 # Hard-Ascents
-List of all ascents 9a+ or harder.
+List of all ascents 9a+ or harder. No routes 9a/a+ included. No traverses, except for hybrid routes, who are sometimes included for historical reasons.
 
 As a service, all routes 9a+ or harder are also listed. This subset is generated from the list of hard ascents.
 
